@@ -6,7 +6,7 @@ const multer = require("multer");
 // const route = require('./route/route.js');
 
 app.use(express.json())
-
+//comment added
 
 app.use(cors())
 
